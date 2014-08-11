@@ -5,4 +5,4 @@ Documentation repo test
 
 [Plugin](plugin/Home.md)
 
-[[Plugin|plugin/Home]]
+[[Plugin|plugin/Home.md]]
