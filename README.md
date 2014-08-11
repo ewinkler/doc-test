@@ -3,6 +3,6 @@ doc-test
 
 Documentation repo test
 
-[Plugin](https://github.com/ewinkler/plugin/wiki)
+[Plugin](/plugin/wiki)
 
-[[Plugin | plugin/Home/]]
+[[Plugin|plugin/Home]]
