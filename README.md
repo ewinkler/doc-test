@@ -3,4 +3,4 @@ doc-test
 
 Documentation repo test
 
-[[/plugin/wiki | Plugin]]
+[Plugin](https://github.com/ewinkler/plugin/wiki)
